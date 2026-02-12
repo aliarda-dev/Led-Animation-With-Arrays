@@ -1,4 +1,5 @@
 🚀 Arduino LED Array Project 
+
 Bu proje, Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği 1. sınıf öğrencisi olarak Arduino kullanarak yaptığım ilk projem, C programlama dilindeki dizi (array) ve döngü (loop) mantığını fiziksel bir devreye taşıdığım ilk çalışmamdır.
 
 🛠️ Teknik Detaylar
@@ -9,6 +10,7 @@ Mantık: Pin numaraları bir C dizisinde tutulur ve for döngüsü kullanılarak
 Özellik: Kod yapısı, sadece pin sayısını değiştirerek kolayca genişletilebilir (Scalable code).
 
 📖 Öğrenim Kazanımları
+
 C dilindeki dizilerin donanım kontrolünde kullanımı.
 
 Temel devre kurulumu ve ortak toprak (GND) hattı mantığı.

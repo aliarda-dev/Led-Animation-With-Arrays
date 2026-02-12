@@ -19,7 +19,7 @@ Gömülü sistemlere (Embedded Systems) giriş.
 
 ### 🎥 Proje Demo Videosu
 
-[Buraya tıklayarak çalışma videosunu izleyebilirsiniz!](media/circuitvideo.mov)
+
 
 
 

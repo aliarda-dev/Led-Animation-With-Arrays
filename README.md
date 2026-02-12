@@ -19,6 +19,6 @@ Gömülü sistemlere (Embedded Systems) giriş.
 
 ### 🎥 Proje Demo Videosu
 
-[Buraya tıklayarak çalışma videosunu izleyebilirsiniz!](media/circuitvideo.mp4)
+[Buraya tıklayarak çalışma videosunu izleyebilirsiniz!](media/circuitvideo.mov)
 
 Ali Arda Kocabörek Akdeniz University | EEM Student# Led-Animation-With-Arrays

@@ -17,4 +17,8 @@ Temel devre kurulumu ve ortak toprak (GND) hattı mantığı.
 
 Gömülü sistemlere (Embedded Systems) giriş.
 
+### 🎥 Proje Demo Videosu
+
+[Buraya tıklayarak çalışma videosunu izleyebilirsiniz!](media/circuitvideo.mp4)
+
 Ali Arda Kocabörek Akdeniz University | EEM Student# Led-Animation-With-Arrays

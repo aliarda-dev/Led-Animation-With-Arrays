@@ -27,4 +27,4 @@ Gömülü sistemlere (Embedded Systems) giriş.
 https://github.com/user-attachments/assets/f8f07f9c-d68f-4e64-a582-2faa462c132e
 
 
-Ali Arda Kocabörek Akdeniz University | EEM Student# Led-Animation-With-Arrays
+Ali Arda Kocabörek Akdeniz University | EEE Student# Led-Animation-With-Arrays

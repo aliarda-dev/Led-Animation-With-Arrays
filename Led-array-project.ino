@@ -1,25 +1,39 @@
 //Led Project With Arrays
-//Ali Arda Kocabörek | Akdeniz EEE
+//Ali Arda Kocabörek || Akdeniz EEE
 
-int led_Pinleri[3] = {2,3,4},i;
+#include <Arduino.h>       // Register erisimi icin
 
-void setup(){
+const int led_pinler[3]={2,3,4};
 
-  for(i=0;i<=2;i++){
-    
-    pinMode(led_Pinleri[i],OUTPUT);
 
+void ledyak(void);
+
+int main(void){
+
+  init();
+
+  for(int i=0;i<3;i++){
+    pinMode(*(led_pinler+i),OUTPUT);
   }
+
+  ledyak();
+
 }
 
-void loop(){
+void ledyak(void){
 
-  for(i=0;i<=2;i++){
+  int i=0;
+  int led_sayisi=sizeof(led_pinler)/sizeof(*(led_pinler));
 
-    digitalWrite(led_Pinleri[i],HIGH);
+  while(1){
 
-    delay(1500);
+    for(i=0;i<led_sayisi;i++){
 
-    digitalWrite(led_Pinleri[i],LOW);
+      digitalWrite(*(led_pinler+i),HIGH);
+      delay(1000);
+      digitalWrite(*(led_pinler+i),LOW);
+      delay(1000);
+
+    }
   }
 }

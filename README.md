@@ -17,6 +17,10 @@ Temel devre kurulumu ve ortak toprak (GND) hattı mantığı.
 
 Gömülü sistemlere (Embedded Systems) giriş.
 
+***Not*** 
+
+Projenin dc güç kaynaklı,switch kullanılarak yapılacak halinin pcb tasarımı ve gerekli gerber dosyaları yüklendi.
+
 ### 🎥 Proje Demo Videosu
 
 

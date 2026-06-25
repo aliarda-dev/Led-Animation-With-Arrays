@@ -30,5 +30,9 @@ Projenin dc güç kaynaklı,switch kullanılarak yapılacak halinin pcb tasarım
 
 https://github.com/user-attachments/assets/f8f07f9c-d68f-4e64-a582-2faa462c132e
 
+### 📷 Proje PCB Medyası
+<img width="896" height="674" alt="ledarraypcb4" src="https://github.com/user-attachments/assets/82f11d14-02e8-4ab9-b242-fa8b6d27d3ef" />
+
+
 
 Ali Arda Kocabörek Akdeniz University | EEE Student# Led-Animation-With-Arrays

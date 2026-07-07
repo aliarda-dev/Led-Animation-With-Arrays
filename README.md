@@ -6,7 +6,9 @@ Bu proje, Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği 1. sınıf ö
 ***Donanım***
 
 *Arduino Uno
+
 *3x LED
+
 *3x 330Ω Direnç
 
 ***Öğrenim Kazanımları***

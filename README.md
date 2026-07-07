@@ -1,15 +1,15 @@
-***Arduino LED Array Project ***
+***Arduino LED Array Project***
 
 Bu proje, Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği 1. sınıf öğrencisi olarak Arduino kullanarak yaptığım ilk projem, C programlama dilindeki dizi (array) ve döngü (loop) mantığını fiziksel bir devreye taşıdığım ilk çalışmamdır.
 
 
 ***Donanım***
 
-*Arduino Uno
+* Arduino Uno
 
-*3x LED
+* 3x LED
 
-*3x 330Ω Direnç
+* 3x 330Ω Direnç
 
 ***Öğrenim Kazanımları***
 
